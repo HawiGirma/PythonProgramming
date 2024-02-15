@@ -1,5 +1,3 @@
-#HAWI GIRMA MEGERSA ETS0644/15
-#SKILL SPECTRUM
 import addTask
 import displayTask
 import removeTasks
